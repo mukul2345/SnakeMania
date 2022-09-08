@@ -8,7 +8,7 @@
 
 
 ### Screenshots
-![How page looks1](imgs/img1.png)
+![How page looks1](img\screenshot1.jpg)
 
 
-![How page looks2](imgs/img2.png)
+![How page looks2](img\screenshot2.jpg)
