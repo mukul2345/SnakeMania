@@ -12,4 +12,4 @@
 ![How page looks1](https://github.com/mukul2345/SnakeMania/blob/main/img/screenshot1.jpg)
 
 
-![How page looks2](https://github.com/mukul2345/SnakeMania/blob/main/img\screenshot2.jpg)
+![How page looks2](https://github.com/mukul2345/SnakeMania/blob/main/img/screenshot2.jpg)
